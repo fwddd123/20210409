@@ -1,0 +1,43 @@
+2021-05-31 13:38:11,116 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Createtable.py[line:194] - INFO: 任务开始
+2021-05-31 13:38:11,117 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-31 13:38:11,167 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:38:11,167 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Createtable.py[line:54] - INFO: T01_Mall_Member_HCreatetable.py begintime=2021-05-31 13:38:11
+2021-05-31 13:38:11,358 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Createtable.py[line:204] - INFO: 【运行总时间】0.24
+2021-05-31 13:38:14,642 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:366] - INFO: 任务开始
+2021-05-31 13:38:14,683 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:38:14,697 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-31 13:38:14,742 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:38:14,743 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:54] - INFO: T01_Mall_Member_H_Data2Dw.py begintime=2021-05-31 13:38:14
+2021-05-31 13:38:14,829 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:348] - ERROR: 【异常sql】(1054, "Unknown column 'a.tenant_id' in 'on clause'")
+2021-05-31 13:38:14,900 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:395] - ERROR: 【运行异常】(1054, "Unknown column 'a.tenant_id' in 'on clause'")
+2021-05-31 13:41:19,967 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:364] - INFO: 任务开始
+2021-05-31 13:41:20,008 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:41:20,022 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-31 13:41:20,059 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:41:20,059 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:54] - INFO: T01_Mall_Member_H_Data2Dw.py begintime=2021-05-31 13:41:20
+2021-05-31 13:41:20,144 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:346] - ERROR: 【异常sql】(1054, "Unknown column 'c.TenantId' in 'on clause'")
+2021-05-31 13:41:20,203 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:393] - ERROR: 【运行异常】(1054, "Unknown column 'c.TenantId' in 'on clause'")
+2021-05-31 13:41:43,395 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:364] - INFO: 任务开始
+2021-05-31 13:41:43,438 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:41:43,450 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-31 13:41:43,496 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:41:43,496 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:54] - INFO: T01_Mall_Member_H_Data2Dw.py begintime=2021-05-31 13:41:43
+2021-05-31 13:41:43,574 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:346] - ERROR: 【异常sql】(1136, "Column count doesn't match value count at row 1")
+2021-05-31 13:41:43,625 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:393] - ERROR: 【运行异常】(1136, "Column count doesn't match value count at row 1")
+2021-05-31 13:42:13,854 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:366] - INFO: 任务开始
+2021-05-31 13:42:13,909 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:42:13,921 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-31 13:42:13,971 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:42:13,971 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:54] - INFO: T01_Mall_Member_H_Data2Dw.py begintime=2021-05-31 13:42:13
+2021-05-31 13:42:57,165 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:393] - INFO: 【运行总时间】43.3
+2021-05-31 13:48:20,704 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:366] - INFO: 任务开始
+2021-05-31 13:48:20,751 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:48:21,721 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-31 13:48:21,774 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 13:48:21,774 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:54] - INFO: T01_Mall_Member_H_Data2Dw.py begintime=2021-05-31 13:48:21
+2021-05-31 14:08:39,428 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:366] - INFO: 任务开始
+2021-05-31 14:08:39,548 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 14:08:40,806 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-31 14:08:40,877 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-31 14:08:40,877 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:54] - INFO: T01_Mall_Member_H_Data2Dw.py begintime=2021-05-31 14:08:40
+2021-05-31 14:09:17,587 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Mall_Member_H_Data2Dw.py[line:393] - INFO: 【运行总时间】38.1

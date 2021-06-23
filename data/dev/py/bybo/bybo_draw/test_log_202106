@@ -1,0 +1,60 @@
+2021-06-21 11:30:22,670 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:303] - INFO: 任务开始
+2021-06-21 11:30:22,728 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 11:30:22,744 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 11:30:22,781 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 11:30:22,781 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-21 11:30:22
+2021-06-21 11:30:23,118 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:333] - INFO: 【运行总时间】0.44
+2021-06-21 11:31:37,765 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:303] - INFO: 任务开始
+2021-06-21 11:31:37,817 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 11:31:37,831 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 11:31:37,873 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 11:31:37,873 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-21 11:31:37
+2021-06-21 11:31:38,202 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:333] - INFO: 【运行总时间】0.43
+2021-06-21 11:35:18,311 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:303] - INFO: 任务开始
+2021-06-21 11:35:18,724 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 11:35:18,744 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 11:35:18,787 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 11:35:18,787 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-21 11:35:18
+2021-06-21 11:35:20,112 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:333] - INFO: 【运行总时间】1.80
+2021-06-21 14:42:56,199 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 14:42:56,351 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 14:42:56,351 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: Task begin
+2021-06-21 14:42:56,351 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:64] - INFO: draw T02_Card_Income_Create begintime=2021-06-21 14:42:56
+2021-06-21 14:42:56,471 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:71] - ERROR: err Sql(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '；\n\n)\nENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='卡券划扣收入'' at line 36")
+2021-06-21 14:42:56,679 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:82] - INFO: T02_Card_Income_Createendtime=2021-06-21 14:42:56,Use Total_time 0 second
+2021-06-21 14:43:27,201 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 14:43:27,258 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 14:43:27,259 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: Task begin
+2021-06-21 14:43:27,259 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:64] - INFO: draw T02_Card_Income_Create begintime=2021-06-21 14:43:27
+2021-06-21 14:43:27,274 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:71] - ERROR: err Sql(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '；\n\n)\nENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='卡券划扣收入'' at line 36")
+2021-06-21 14:43:27,367 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:82] - INFO: T02_Card_Income_Createendtime=2021-06-21 14:43:27,Use Total_time 0 second
+2021-06-21 14:44:32,711 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 14:44:32,878 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 14:44:32,878 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: Task begin
+2021-06-21 14:44:32,878 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:64] - INFO: draw T02_Card_Income_Create begintime=2021-06-21 14:44:32
+2021-06-21 14:44:32,945 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:71] - ERROR: err Sql(1067, "Invalid default value for 'Birth'")
+2021-06-21 14:44:33,132 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:82] - INFO: T02_Card_Income_Createendtime=2021-06-21 14:44:32,Use Total_time 0 second
+2021-06-21 14:47:51,103 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 14:47:51,161 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 14:47:51,161 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: Task begin
+2021-06-21 14:47:51,161 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:64] - INFO: draw T02_Card_Income_Create begintime=2021-06-21 14:47:51
+2021-06-21 14:47:51,471 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:82] - INFO: T02_Card_Income_Createendtime=2021-06-21 14:47:51,Use Total_time 0 second
+2021-06-21 14:47:51,471 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:92] - INFO: database close
+2021-06-21 15:47:29,380 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 15:47:29,432 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 15:47:29,432 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: Task begin
+2021-06-21 15:47:29,432 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:64] - INFO: draw T02_Card_Income_Create begintime=2021-06-21 15:47:29
+2021-06-21 15:47:29,554 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:82] - INFO: T02_Card_Income_Createendtime=2021-06-21 15:47:29,Use Total_time 0 second
+2021-06-21 15:47:29,554 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:92] - INFO: database close
+2021-06-21 15:54:05,442 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 15:54:05,491 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 15:54:05,491 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: Task begin
+2021-06-21 15:54:05,491 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:64] - INFO: draw T02_Card_Income begintime=2021-06-21 15:54:05
+2021-06-21 15:54:05,679 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:82] - INFO: T02_Card_Incomeendtime=2021-06-21 15:54:05,Use Total_time 0 second
+2021-06-21 15:54:05,679 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:92] - INFO: database close
+2021-06-21 17:02:52,450 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-21 17:02:52,504 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-21 17:02:52,504 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: Task begin
+2021-06-21 17:02:52,504 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:64] - INFO: draw T02_Card_Income begintime=2021-06-21 17:02:52
+2021-06-21 17:02:52,708 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:82] - INFO: T02_Card_Incomeendtime=2021-06-21 17:02:52,Use Total_time 0 second
+2021-06-21 17:02:52,708 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:92] - INFO: database close

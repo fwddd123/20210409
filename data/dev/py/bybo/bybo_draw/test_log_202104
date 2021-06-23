@@ -1,0 +1,12 @@
+2021-04-28 10:06:42,979 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:302] - INFO: 任务开始
+2021-04-28 10:06:43,031 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-28 10:06:43,220 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-28 10:06:43,261 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-28 10:06:43,261 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:52] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-28 10:06:43
+2021-04-28 10:06:44,335 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:332] - INFO: 【运行总时间】1.35
+2021-04-28 10:06:49,883 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Order_test.py[line:22] - INFO: 任务开始
+2021-04-28 10:06:49,936 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-28 10:06:50,070 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-28 10:06:50,107 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-28 10:06:50,107 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_draw\T05_AiYa_SaleClue_H_Data2Dw.py[line:52] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-28 10:06:50
+2021-04-28 10:06:51,264 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Order_test.py[line:47] - INFO: 【运行总时间】1.38

@@ -1,0 +1,136 @@
+2021-05-20 14:10:13,812 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_create.py[line:202] - INFO: 任务开始
+2021-05-20 14:10:13,813 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-20 14:10:13,871 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 14:10:13,871 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_create.py[line:50] - INFO: T02_MemberShipTransaction_H.py2021-05-20 14:10:13
+2021-05-20 14:10:13,894 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_create.py[line:183] - ERROR: 【异常sql】(1067, "Invalid default value for 'Amount'")
+2021-05-20 14:10:13,955 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_create.py[line:214] - ERROR: 【运行异常】(1067, "Invalid default value for 'Amount'")
+2021-05-20 14:10:38,906 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_create.py[line:202] - INFO: 任务开始
+2021-05-20 14:10:38,906 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-20 14:10:38,959 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 14:10:38,959 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_create.py[line:50] - INFO: T02_MemberShipTransaction_H.py2021-05-20 14:10:38
+2021-05-20 14:10:39,125 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_create.py[line:212] - INFO: 【运行总时间】0.21
+2021-05-20 14:40:26,590 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:351] - INFO: 任务开始
+2021-05-20 14:40:26,644 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 14:40:26,660 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-20 14:40:26,716 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 14:40:26,717 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:54] - INFO: T02_MemberShipTransaction_H_Data2Dw.py begintime=2021-05-20 14:40:26
+2021-05-20 14:40:59,124 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:332] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')\n                from T02_MemberShipTransaction_H_Tmp a\n                left jo' at line 64")
+2021-05-20 14:41:16,513 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:383] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')\n                from T02_MemberShipTransaction_H_Tmp a\n                left jo' at line 64")
+2021-05-20 14:41:58,606 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:351] - INFO: 任务开始
+2021-05-20 14:41:58,649 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 14:41:58,662 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-20 14:41:58,711 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 14:41:58,711 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:54] - INFO: T02_MemberShipTransaction_H_Data2Dw.py begintime=2021-05-20 14:41:58
+2021-05-20 14:43:10,385 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:381] - INFO: 【运行总时间】71.7
+2021-05-20 15:14:54,078 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:351] - INFO: 任务开始
+2021-05-20 15:14:56,098 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:72] - ERROR: 数据库连接异常:(2003, "Can't connect to MySQL server on '10.130.217.51' (timed out)")
+2021-05-20 15:14:56,098 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:73] - ERROR: 重试次数:1
+2021-05-20 15:14:59,198 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 15:15:01,523 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-20 15:15:01,673 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 15:15:01,673 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:54] - INFO: T02_MemberShipTransaction_H_Data2Dw.py begintime=2021-05-20 15:15:01
+2021-05-20 15:15:27,243 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:381] - INFO: 【运行总时间】33.1
+2021-05-20 15:24:17,152 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:351] - INFO: 任务开始
+2021-05-20 15:24:17,201 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 15:24:17,211 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-20 15:24:17,253 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 15:24:17,253 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:54] - INFO: T02_MemberShipTransaction_H_Data2Dw.py begintime=2021-05-20 15:24:17
+2021-05-20 15:25:30,580 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:381] - INFO: 【运行总时间】73.4
+2021-05-20 16:43:35,306 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:351] - INFO: 任务开始
+2021-05-20 16:43:35,347 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 16:43:35,358 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-20 16:43:35,403 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-20 16:43:35,403 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:54] - INFO: T02_MemberShipTransaction_H_Data2Dw.py begintime=2021-05-20 16:43:35
+2021-05-20 16:45:00,963 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:381] - INFO: 【运行总时间】85.6
+2021-05-21 11:11:01,189 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_create.py[line:175] - INFO: 任务开始
+2021-05-21 11:11:01,189 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 11:11:01,235 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 11:11:01,236 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_create.py[line:50] - INFO: T01_Promoter_H.py2021-05-21 11:11:01
+2021-05-21 11:11:01,493 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_create.py[line:185] - INFO: 【运行总时间】0.30
+2021-05-21 11:18:45,716 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:351] - INFO: 任务开始
+2021-05-21 11:18:45,771 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 11:18:48,081 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 11:18:48,135 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 11:18:48,135 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:54] - INFO: T02_MemberShipTransaction_H_Data2Dw.py begintime=2021-05-21 11:18:48
+2021-05-21 11:19:15,993 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_MemberShipTransaction_H_Data2Dw.py[line:381] - INFO: 【运行总时间】30.2
+2021-05-21 13:48:33,329 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:48:33,377 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:48:33,636 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:48:33,685 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:48:33,685 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:48:33
+2021-05-21 13:48:33,752 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') as CreatedOnDate\n                ,ifnull(a.createdon,'') as CreatedOnTime\n    ' at line 31")
+2021-05-21 13:48:33,810 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') as CreatedOnDate\n                ,ifnull(a.createdon,'') as CreatedOnTime\n    ' at line 31")
+2021-05-21 13:49:05,574 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:49:05,632 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:49:05,699 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:49:05,739 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:49:05,739 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:49:05
+2021-05-21 13:49:05,803 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') as CreatedOnDate\n                ,ifnull(a.createdon,'') as CreatedOnTime\n    ' at line 31")
+2021-05-21 13:49:05,863 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') as CreatedOnDate\n                ,ifnull(a.createdon,'') as CreatedOnTime\n    ' at line 31")
+2021-05-21 13:51:10,451 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:51:10,559 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:51:10,654 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:51:10,713 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:51:10,713 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:51:10
+2021-05-21 13:51:10,827 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.CreatedOn, '') as RecordCreatedTime,\n                ifnull(a.ModifiedO' at line 36")
+2021-05-21 13:51:10,925 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.CreatedOn, '') as RecordCreatedTime,\n                ifnull(a.ModifiedO' at line 36")
+2021-05-21 13:52:29,594 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:52:29,716 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:52:29,813 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:52:29,930 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:52:29,930 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:52:29
+2021-05-21 13:52:30,026 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1370, "execute command denied to user 'biuser'@'%' for routine 'a.concat'")
+2021-05-21 13:52:30,141 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1370, "execute command denied to user 'biuser'@'%' for routine 'a.concat'")
+2021-05-21 13:52:48,825 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:52:48,956 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:52:49,049 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:52:49,137 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:52:49,137 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:52:49
+2021-05-21 13:52:49,205 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1370, "execute command denied to user 'biuser'@'%' for routine 'a.concat'")
+2021-05-21 13:52:49,257 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1370, "execute command denied to user 'biuser'@'%' for routine 'a.concat'")
+2021-05-21 13:53:31,466 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:53:31,526 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:53:31,600 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:53:31,653 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:53:31,653 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:53:31
+2021-05-21 13:53:31,725 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1370, "execute command denied to user 'biuser'@'%' for routine 'a.concat'")
+2021-05-21 13:53:31,777 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1370, "execute command denied to user 'biuser'@'%' for routine 'a.concat'")
+2021-05-21 13:54:10,040 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:54:10,098 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:54:10,174 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:54:10,220 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:54:10,220 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:54:10
+2021-05-21 13:54:10,290 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1241, 'Operand should contain 1 column(s)')
+2021-05-21 13:54:10,344 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1241, 'Operand should contain 1 column(s)')
+2021-05-21 13:55:35,749 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:55:35,797 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:55:35,862 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:55:35,899 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:55:35,899 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:55:35
+2021-05-21 13:55:35,968 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1241, 'Operand should contain 1 column(s)')
+2021-05-21 13:55:36,021 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1241, 'Operand should contain 1 column(s)')
+2021-05-21 13:56:34,232 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:56:34,682 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:56:34,790 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:56:34,949 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:56:34,949 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:56:34
+2021-05-21 13:56:35,138 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:273] - ERROR: 【异常sql】(1054, "Unknown column 'a.officeid' in 'field list'")
+2021-05-21 13:56:35,277 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:324] - ERROR: 【运行异常】(1054, "Unknown column 'a.officeid' in 'field list'")
+2021-05-21 13:56:59,858 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:56:59,913 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:56:59,984 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:57:00,037 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:57:00,037 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:57:00
+2021-05-21 13:57:00,353 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:322] - INFO: 【运行总时间】0.49
+2021-05-21 13:57:35,630 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:57:35,680 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:57:35,691 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:57:35,744 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:57:35,744 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:57:35
+2021-05-21 13:57:35,961 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:322] - INFO: 【运行总时间】0.33
+2021-05-21 13:59:27,239 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:292] - INFO: 任务开始
+2021-05-21 13:59:27,291 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:59:27,302 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-21 13:59:27,353 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-21 13:59:27,353 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:54] - INFO: T01_Promoter_H_Data2Dw.py begintime=2021-05-21 13:59:27
+2021-05-21 13:59:30,666 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Promoter_H_Data2Dw.py[line:322] - INFO: 【运行总时间】3.42

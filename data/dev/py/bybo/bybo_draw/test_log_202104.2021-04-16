@@ -1,0 +1,5 @@
+2021-04-16 10:17:42,920 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T03_Template_Org_H_create.py[line:149] - INFO: 任务开始
+2021-04-16 10:17:42,920 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-16 10:17:42,963 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-16 10:17:42,963 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T03_Template_Org_H_create.py[line:48] - INFO: T03_Base_Rights_H.py begintime=2021-04-16 10:17:42
+2021-04-16 10:17:43,063 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T03_Template_Org_H_create.py[line:159] - INFO: 【运行总时间】0.14

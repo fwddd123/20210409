@@ -1,0 +1,44 @@
+2021-06-17 11:17:22,196 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:180] - INFO: 任务开始
+2021-06-17 11:17:22,197 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 11:17:22,241 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 11:17:22,242 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:50] - INFO: T01_Patient_Card_H.py2021-06-17 11:17:22
+2021-06-17 11:17:22,343 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:190] - INFO: 【运行总时间】0.14
+2021-06-17 11:17:26,889 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:304] - INFO: 任务开始
+2021-06-17 11:17:26,932 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 11:17:26,954 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 11:17:26,991 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 11:17:26,991 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-17 11:17:26
+2021-06-17 11:17:27,137 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:285] - ERROR: 【异常sql】(1054, "Unknown column 'a.IsInactive' in 'field list'")
+2021-06-17 11:17:27,202 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:336] - ERROR: 【运行异常】(1054, "Unknown column 'a.IsInactive' in 'field list'")
+2021-06-17 13:49:07,040 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:304] - INFO: 任务开始
+2021-06-17 13:49:07,086 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:49:07,102 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 13:49:07,149 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:49:07,149 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-17 13:49:07
+2021-06-17 13:49:07,223 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:285] - ERROR: 【异常sql】(1054, "Unknown column 'a.IsInactive' in 'field list'")
+2021-06-17 13:49:07,277 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:336] - ERROR: 【运行异常】(1054, "Unknown column 'a.IsInactive' in 'field list'")
+2021-06-17 13:51:16,449 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:304] - INFO: 任务开始
+2021-06-17 13:51:16,499 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:51:16,512 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 13:51:16,562 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:51:16,563 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-17 13:51:16
+2021-06-17 13:51:16,633 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:285] - ERROR: 【异常sql】(1054, "Unknown column 'IsInactive' in 'field list'")
+2021-06-17 13:51:16,729 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:336] - ERROR: 【运行异常】(1054, "Unknown column 'IsInactive' in 'field list'")
+2021-06-17 13:53:44,773 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:303] - INFO: 任务开始
+2021-06-17 13:53:44,825 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:53:44,840 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 13:53:44,880 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:53:44,880 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-17 13:53:44
+2021-06-17 13:53:44,954 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:284] - ERROR: 【异常sql】(1054, "Unknown column 'IsInactive' in 'field list'")
+2021-06-17 13:53:45,039 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:335] - ERROR: 【运行异常】(1054, "Unknown column 'IsInactive' in 'field list'")
+2021-06-17 13:54:59,696 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:180] - INFO: 任务开始
+2021-06-17 13:54:59,696 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 13:54:59,753 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:54:59,753 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:50] - INFO: T01_Patient_Card_H.py2021-06-17 13:54:59
+2021-06-17 13:54:59,902 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:190] - INFO: 【运行总时间】0.20
+2021-06-17 13:55:04,126 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:303] - INFO: 任务开始
+2021-06-17 13:55:04,173 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:55:04,184 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 13:55:04,237 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 13:55:04,237 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-17 13:55:04
+2021-06-17 13:55:04,405 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:333] - INFO: 【运行总时间】0.27

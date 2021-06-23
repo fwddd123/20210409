@@ -1,0 +1,163 @@
+2021-04-25 13:56:01,103 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:178] - INFO: 任务开始
+2021-04-25 13:56:01,104 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 13:56:01,151 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 13:56:01,151 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:49] - INFO: T05_AiYa_SaleClue_H.py2021-04-25 13:56:01
+2021-04-25 13:56:01,161 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:159] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 17")
+2021-04-25 13:56:01,241 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:190] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 17")
+2021-04-25 13:56:53,338 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:178] - INFO: 任务开始
+2021-04-25 13:56:53,338 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 13:56:53,387 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 13:56:53,387 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:49] - INFO: T05_AiYa_SaleClue_H.py2021-04-25 13:56:53
+2021-04-25 13:56:53,442 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:159] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 16")
+2021-04-25 13:56:53,494 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:190] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 16")
+2021-04-25 13:57:59,673 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:178] - INFO: 任务开始
+2021-04-25 13:57:59,673 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 13:57:59,811 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 13:57:59,811 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:49] - INFO: T05_AiYa_SaleClue_H.py2021-04-25 13:57:59
+2021-04-25 13:57:59,868 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:159] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 16")
+2021-04-25 13:57:59,922 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:190] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 16")
+2021-04-25 13:58:27,588 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:178] - INFO: 任务开始
+2021-04-25 13:58:27,588 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 13:58:27,654 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 13:58:27,654 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:49] - INFO: T05_AiYa_SaleClue_H.py2021-04-25 13:58:27
+2021-04-25 13:58:27,678 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:159] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 16")
+2021-04-25 13:58:27,736 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:190] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1900-01-01 00:00:00''COMMENT'期望就诊时间',\n                CreateTime dat' at line 16")
+2021-04-25 14:00:20,767 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:180] - INFO: 任务开始
+2021-04-25 14:00:20,767 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 14:00:20,822 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 14:00:20,822 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:49] - INFO: T05_AiYa_SaleClue_H.py2021-04-25 14:00:20
+2021-04-25 14:00:20,975 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:190] - INFO: 【运行总时间】0.20
+2021-04-25 14:14:10,690 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:180] - INFO: 任务开始
+2021-04-25 14:14:10,690 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 14:14:10,741 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 14:14:10,741 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:49] - INFO: T05_AiYa_SaleClue_H.py2021-04-25 14:14:10
+2021-04-25 14:14:10,947 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:190] - INFO: 【运行总时间】0.25
+2021-04-25 15:12:00,630 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:263] - INFO: 任务开始
+2021-04-25 15:12:00,679 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:12:14,901 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 15:12:14,949 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:12:14,949 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 15:12:14
+2021-04-25 15:12:15,057 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:244] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updated_time, '1900-01-01 00:00:00')   as Start_date,\n                n' at line 43")
+2021-04-25 15:12:15,109 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:295] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updated_time, '1900-01-01 00:00:00')   as Start_date,\n                n' at line 43")
+2021-04-25 15:15:51,914 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:263] - INFO: 任务开始
+2021-04-25 15:15:52,039 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:16:07,173 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 15:16:07,227 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:16:07,227 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 15:16:07
+2021-04-25 15:16:07,309 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:244] - ERROR: 【异常sql】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 15:16:07,364 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:295] - ERROR: 【运行异常】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 15:16:45,537 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:263] - INFO: 任务开始
+2021-04-25 15:16:45,597 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:16:59,777 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 15:16:59,831 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:16:59,831 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 15:16:59
+2021-04-25 15:16:59,913 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:244] - ERROR: 【异常sql】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 15:16:59,963 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:295] - ERROR: 【运行异常】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 15:18:30,911 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:263] - INFO: 任务开始
+2021-04-25 15:18:30,960 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:18:45,421 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 15:18:45,471 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 15:18:45,471 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 15:18:45
+2021-04-25 15:18:45,559 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:244] - ERROR: 【异常sql】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 15:18:45,630 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:295] - ERROR: 【运行异常】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 16:04:29,231 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:263] - INFO: 任务开始
+2021-04-25 16:04:29,333 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:04:44,129 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 16:04:44,270 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:04:44,271 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 16:04:44
+2021-04-25 16:04:44,433 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:244] - ERROR: 【异常sql】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 16:04:44,848 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:295] - ERROR: 【运行异常】(1054, "Unknown column 'a.updated_time' in 'field list'")
+2021-04-25 16:05:33,308 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:262] - INFO: 任务开始
+2021-04-25 16:05:33,347 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:05:48,727 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 16:05:48,776 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:05:48,776 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 16:05:48
+2021-04-25 16:05:48,906 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:243] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updated_time, '1900-01-01 00:00:00')   as Start_date,\n                n' at line 42")
+2021-04-25 16:05:48,962 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:294] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updated_time, '1900-01-01 00:00:00')   as Start_date,\n                n' at line 42")
+2021-04-25 16:06:19,471 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:262] - INFO: 任务开始
+2021-04-25 16:06:19,533 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:06:33,149 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 16:06:33,194 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:06:33,194 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 16:06:33
+2021-04-25 16:06:33,282 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:243] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updated_time, '1900-01-01 00:00:00')   as Start_date,\n                n' at line 42")
+2021-04-25 16:06:33,333 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:294] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updated_time, '1900-01-01 00:00:00')   as Start_date,\n                n' at line 42")
+2021-04-25 16:07:19,335 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:262] - INFO: 任务开始
+2021-04-25 16:07:19,387 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:07:32,230 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 16:07:32,296 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:07:32,296 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 16:07:32
+2021-04-25 16:07:32,374 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:243] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updatetime, '1900-01-01 00:00:00')   as Start_date,\n                now' at line 42")
+2021-04-25 16:07:32,425 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:294] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updatetime, '1900-01-01 00:00:00')   as Start_date,\n                now' at line 42")
+2021-04-25 16:09:26,807 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:262] - INFO: 任务开始
+2021-04-25 16:09:26,889 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:09:40,643 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 16:09:40,694 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:09:40,694 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 16:09:40
+2021-04-25 16:09:40,781 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:243] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updatetime, '1900-01-01 00:00:00')   as Start_date,\n                now' at line 42")
+2021-04-25 16:09:40,832 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:294] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updatetime, '1900-01-01 00:00:00')   as Start_date,\n                now' at line 42")
+2021-04-25 16:14:46,743 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:262] - INFO: 任务开始
+2021-04-25 16:14:46,784 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:15:00,508 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 16:15:00,547 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:15:00,547 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 16:15:00
+2021-04-25 16:15:00,685 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:243] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updatetime, '1900-01-01 00:00:00')   as Start_date,\n                now' at line 42")
+2021-04-25 16:15:00,746 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:294] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ifnull(a.updatetime, '1900-01-01 00:00:00')   as Start_date,\n                now' at line 42")
+2021-04-25 16:15:24,489 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:262] - INFO: 任务开始
+2021-04-25 16:15:24,528 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:15:38,610 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 16:15:38,646 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 16:15:38,646 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 16:15:38
+2021-04-25 16:15:38,895 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:243] - ERROR: 【异常sql】(1054, "Unknown column 'a.CardId' in 'field list'")
+2021-04-25 16:15:38,952 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:294] - ERROR: 【运行异常】(1054, "Unknown column 'a.CardId' in 'field list'")
+2021-04-25 17:09:05,006 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:316] - INFO: 任务开始
+2021-04-25 17:09:05,174 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:09:18,659 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:09:18,730 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:09:18,730 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 17:09:18
+2021-04-25 17:09:18,929 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:297] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')\n                from T05_AiYa_SaleClue_H_Tmp a\n                left join T05_A' at line 48")
+2021-04-25 17:09:18,993 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:348] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')\n                from T05_AiYa_SaleClue_H_Tmp a\n                left join T05_A' at line 48")
+2021-04-25 17:10:19,649 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:316] - INFO: 任务开始
+2021-04-25 17:10:19,720 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:10:33,007 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:10:33,072 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:10:33,072 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 17:10:33
+2021-04-25 17:10:33,263 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:297] - ERROR: 【异常sql】(1054, "Unknown column 'b.RecordUpdatedTime' in 'field list'")
+2021-04-25 17:10:33,335 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:348] - ERROR: 【运行异常】(1054, "Unknown column 'b.RecordUpdatedTime' in 'field list'")
+2021-04-25 17:12:13,358 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:316] - INFO: 任务开始
+2021-04-25 17:12:13,493 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:12:13,512 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:12:13,608 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:12:13,609 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 17:12:13
+2021-04-25 17:12:15,424 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:297] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')\n                 from T05_AiYa_SaleClue_H_log a\n                where A.Indica' at line 65")
+2021-04-25 17:12:16,267 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:348] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')\n                 from T05_AiYa_SaleClue_H_log a\n                where A.Indica' at line 65")
+2021-04-25 17:12:30,933 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:316] - INFO: 任务开始
+2021-04-25 17:12:31,019 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:12:31,041 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:12:31,180 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:12:31,180 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 17:12:31
+2021-04-25 17:12:33,386 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:297] - ERROR: 【异常sql】(1054, "Unknown column 'a.CluUserId' in 'field list'")
+2021-04-25 17:12:33,987 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:348] - ERROR: 【运行异常】(1054, "Unknown column 'a.CluUserId' in 'field list'")
+2021-04-25 17:17:05,244 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:301] - INFO: 任务开始
+2021-04-25 17:17:05,303 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:17:05,315 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:17:05,365 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:17:05,365 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 17:17:05
+2021-04-25 17:17:07,647 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:331] - INFO: 【运行总时间】2.40
+2021-04-25 17:20:52,254 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:180] - INFO: 任务开始
+2021-04-25 17:20:52,254 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:20:52,306 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:20:52,306 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:49] - INFO: T05_AiYa_SaleClue_H.py2021-04-25 17:20:52
+2021-04-25 17:20:52,488 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_create.py[line:190] - INFO: 【运行总时间】0.23
+2021-04-25 17:20:55,815 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:301] - INFO: 任务开始
+2021-04-25 17:20:55,867 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:20:55,893 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:20:55,942 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:20:55,942 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 17:20:55
+2021-04-25 17:20:56,023 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:282] - ERROR: 【异常sql】(1054, "Unknown column 'b.Region' in 'field list'")
+2021-04-25 17:20:56,082 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:333] - ERROR: 【运行异常】(1054, "Unknown column 'b.Region' in 'field list'")
+2021-04-25 17:21:28,562 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:301] - INFO: 任务开始
+2021-04-25 17:21:28,607 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:21:28,621 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-04-25 17:21:28,661 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-04-25 17:21:28,661 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:51] - INFO: T05_AiYa_SaleClue_H_Data2Dw.py begintime=2021-04-25 17:21:28
+2021-04-25 17:21:31,915 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T05_AiYa_SaleClue_H_Data2Dw.py[line:331] - INFO: 【运行总时间】3.35

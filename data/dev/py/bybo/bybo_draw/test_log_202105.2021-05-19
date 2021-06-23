@@ -1,0 +1,71 @@
+2021-05-18 09:40:10,857 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_H_Createtable.py[line:164] - INFO: 任务开始
+2021-05-18 09:40:10,857 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 09:40:11,286 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 09:40:11,286 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_H_Createtable.py[line:52] - INFO: T02_ChargeOrder_H_Createtable.py begintime=2021-05-18 09:40:11
+2021-05-18 09:40:11,531 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_H_Createtable.py[line:174] - INFO: 【运行总时间】0.67
+2021-05-18 10:45:44,688 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_paytype_H_Createtable.py[line:164] - INFO: 任务开始
+2021-05-18 10:45:44,688 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 10:45:44,742 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 10:45:44,742 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_paytype_H_Createtable.py[line:52] - INFO: T02_ChargeOrder_paytype_H_Createtable.py begintime=2021-05-18 10:45:44
+2021-05-18 10:45:44,926 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_paytype_H_Createtable.py[line:174] - INFO: 【运行总时间】0.23
+2021-05-18 10:52:55,032 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Createtable.py[line:164] - INFO: 任务开始
+2021-05-18 10:52:55,032 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 10:52:55,079 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 10:52:55,079 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Createtable.py[line:52] - INFO: T02_ChargeOrder_Paytype_H_Createtable.py begintime=2021-05-18 10:52:55
+2021-05-18 10:52:55,168 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Createtable.py[line:174] - INFO: 【运行总时间】0.13
+2021-05-18 11:02:26,977 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:319] - INFO: 任务开始
+2021-05-18 11:02:27,018 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:02:27,199 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 11:02:27,240 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:02:27,240 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T03_Base_Rights_H_Createtable.py begintime=2021-05-18 11:02:27
+2021-05-18 11:02:27,343 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:301] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ChargeOrderId\n                ,PayType\n                ,ActualPrice\n            ' at line 2")
+2021-05-18 11:02:27,394 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:351] - ERROR: 【运行异常】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ChargeOrderId\n                ,PayType\n                ,ActualPrice\n            ' at line 2")
+2021-05-18 11:03:26,063 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:319] - INFO: 任务开始
+2021-05-18 11:03:26,122 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:03:26,155 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 11:03:26,208 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:03:26,208 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T03_Base_Rights_H_Createtable.py begintime=2021-05-18 11:03:26
+2021-05-18 11:03:26,361 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:301] - ERROR: 【异常sql】(1054, "Unknown column 'ChargeOrderId' in 'field list'")
+2021-05-18 11:03:26,432 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:351] - ERROR: 【运行异常】(1054, "Unknown column 'ChargeOrderId' in 'field list'")
+2021-05-18 11:04:09,380 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:319] - INFO: 任务开始
+2021-05-18 11:04:09,435 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:04:09,461 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 11:04:09,508 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:04:09,508 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T03_Base_Rights_H_Createtable.py begintime=2021-05-18 11:04:09
+2021-05-18 11:04:09,615 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:301] - ERROR: 【异常sql】(1054, "Unknown column 'ChargeOrderId' in 'field list'")
+2021-05-18 11:04:09,674 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:351] - ERROR: 【运行异常】(1054, "Unknown column 'ChargeOrderId' in 'field list'")
+2021-05-18 11:05:54,599 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:319] - INFO: 任务开始
+2021-05-18 11:05:54,639 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:05:54,665 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 11:05:54,722 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:05:54,722 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T03_Base_Rights_H_Createtable.py begintime=2021-05-18 11:05:54
+2021-05-18 11:12:00,256 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:349] - INFO: 【运行总时间】365.
+2021-05-18 11:38:03,093 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:313] - INFO: 任务开始
+2021-05-18 11:38:03,195 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:38:03,217 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 11:38:03,300 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:38:03,300 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-05-18 11:38:03
+2021-05-18 11:43:47,334 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:294] - ERROR: 【异常sql】(1366, "Incorrect decimal value: '' for column 'ActualPrice' at row 59921")
+2021-05-18 11:43:47,444 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:345] - ERROR: 【运行异常】(1366, "Incorrect decimal value: '' for column 'ActualPrice' at row 59921")
+2021-05-18 11:56:27,564 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:313] - INFO: 任务开始
+2021-05-18 11:56:27,619 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:56:27,631 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 11:56:27,682 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 11:56:27,682 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-05-18 11:56:27
+2021-05-18 12:10:58,655 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:294] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')\n                select \n                a.ChargeOrderId\n                ,a.Pay' at line 18")
+2021-05-18 12:24:16,360 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:312] - INFO: 任务开始
+2021-05-18 12:24:16,408 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 12:24:16,422 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 12:24:16,462 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 12:24:16,462 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-05-18 12:24:16
+2021-05-18 13:38:46,502 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:312] - INFO: 任务开始
+2021-05-18 13:38:46,548 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 13:38:46,560 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-18 13:38:46,598 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-18 13:38:46,599 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-05-18 13:38:46
+2021-05-18 13:58:05,412 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:342] - INFO: 【运行总时间】1158
+2021-05-19 09:39:35,691 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-05-19 09:39:35,740 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-05-19 09:39:35,740 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:54] - INFO: 任务开始
+2021-05-19 09:39:35,740 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:55] - INFO: draw T01_Patient_H begintime=2021-05-19 09:39:35
+2021-05-19 09:40:29,414 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:81] - INFO: 数据库关闭

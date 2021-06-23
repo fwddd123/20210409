@@ -1,0 +1,98 @@
+2021-06-02 14:41:12,982 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:312] - INFO: 任务开始
+2021-06-02 14:41:13,035 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 14:41:13,047 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-02 14:41:13,085 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 14:41:13,085 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-06-02 14:41:13
+2021-06-02 14:46:01,700 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:312] - INFO: 任务开始
+2021-06-02 14:46:01,743 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 14:46:01,761 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-02 14:46:01,809 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 14:46:01,809 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-06-02 14:46:01
+2021-06-02 15:27:25,831 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:312] - INFO: 任务开始
+2021-06-02 15:27:25,875 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 15:27:25,886 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-02 15:27:25,935 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 15:27:25,935 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-06-02 15:27:25
+2021-06-02 15:29:43,925 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:312] - INFO: 任务开始
+2021-06-02 15:29:43,982 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 15:29:44,008 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-02 15:29:44,051 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-02 15:29:44,051 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-06-02 15:29:44
+2021-06-03 09:35:56,025 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-03 09:35:56,401 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-03 09:35:56,401 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:58] - INFO: 任务开始
+2021-06-03 09:35:56,402 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: draw T01_Patient_H begintime=2021-06-03 09:35:56
+2021-06-03 09:35:56,498 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:66] - ERROR: 【异常sql】(1065, 'Query was empty')
+2021-06-03 09:35:56,621 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:77] - INFO: T01_Patient_H结束 endtime=2021-06-03 09:35:56,总用时0秒
+2021-06-03 09:43:05,812 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:312] - INFO: 任务开始
+2021-06-03 09:43:05,861 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-03 09:43:05,877 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-03 09:43:05,935 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-03 09:43:05,935 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:54] - INFO: T02_ChargeOrder_Paytype_H_Data2Dw.py begintime=2021-06-03 09:43:05
+2021-06-03 09:43:20,779 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-03 09:43:20,825 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-03 09:43:20,825 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:58] - INFO: 任务开始
+2021-06-03 09:43:20,825 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: draw bbkq_dw.T98_Bybo_Cus_Treat begintime=2021-06-03 09:43:20
+2021-06-03 09:43:20,845 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:66] - ERROR: 【异常sql】(1050, "Table 'bbkq_dw.t98_bybo_cus_treat' already exists")
+2021-06-03 09:43:20,937 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:77] - INFO: bbkq_dw.T98_Bybo_Cus_Treat结束 endtime=2021-06-03 09:43:20,总用时0秒
+2021-06-03 09:44:24,246 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-03 09:44:24,304 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-03 09:44:24,304 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:58] - INFO: 任务开始
+2021-06-03 09:44:24,304 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: draw bbkq_dw.T98_Bybo_Cus_Treat begintime=2021-06-03 09:44:24
+2021-06-03 09:44:24,561 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:77] - INFO: bbkq_dw.T98_Bybo_Cus_Treat结束 endtime=2021-06-03 09:44:24,总用时0秒
+2021-06-03 09:44:24,562 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:87] - INFO: 数据库关闭
+2021-06-03 10:17:00,787 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-03 10:17:01,800 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-03 10:17:01,801 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-03 10:17:01,801 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw bbkq_dw.T98_Bybo_Cus_Treat begintime=2021-06-03 10:17:01
+2021-06-03 10:17:01,816 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1050, "Table 'bbkq_dm.t98_bybo_cus_treat' already exists")
+2021-06-03 10:17:01,954 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: bbkq_dw.T98_Bybo_Cus_Treat结束 endtime=2021-06-03 10:17:01,总用时0秒
+2021-06-03 10:22:01,721 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-03 10:22:01,765 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-03 10:22:01,765 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-03 10:22:01,765 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw bbkq_dw.T98_Bybo_Cus_Treat begintime=2021-06-03 10:22:01
+2021-06-03 10:22:01,788 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1050, "Table 'bbkq_dm.t98_bybo_cus_treat' already exists")
+2021-06-03 10:22:01,904 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: bbkq_dw.T98_Bybo_Cus_Treat结束 endtime=2021-06-03 10:22:01,总用时0秒
+2021-06-03 11:43:16,626 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:293] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-03 11:43:16,628 - D:\泰康拜博\ETL\20210409\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-03 11:43:16,628 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T02_ChargeOrder_Paytype_H_Data2Dw.py[line:344] - ERROR: 【运行异常】(0, '')
+2021-06-04 10:21:08,952 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:183] - INFO: 任务开始
+2021-06-04 10:21:08,953 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-04 10:21:09,002 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:21:09,002 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:50] - INFO: T01_Patient_Card_H.py2021-06-04 10:21:09
+2021-06-04 10:21:10,225 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:193] - INFO: 【运行总时间】1.27
+2021-06-04 10:25:28,013 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:183] - INFO: 任务开始
+2021-06-04 10:25:28,013 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-04 10:25:28,079 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:25:28,079 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:50] - INFO: T01_Patient_Card_H.py2021-06-04 10:25:28
+2021-06-04 10:25:47,048 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:164] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-04 10:25:47,048 - D:\泰康拜博\ETL\20210409\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-04 10:25:47,048 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:195] - ERROR: 【运行异常】(0, '')
+2021-06-04 10:26:24,856 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:183] - INFO: 任务开始
+2021-06-04 10:26:24,856 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-04 10:26:24,920 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:26:24,920 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:50] - INFO: T01_Patient_Card_H.py2021-06-04 10:26:24
+2021-06-04 10:26:43,914 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:164] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-04 10:26:43,914 - D:\泰康拜博\ETL\20210409\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-04 10:26:43,914 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:195] - ERROR: 【运行异常】(0, '')
+2021-06-04 10:27:07,539 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:180] - INFO: 任务开始
+2021-06-04 10:27:07,540 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-04 10:27:07,593 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:27:07,593 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:50] - INFO: T01_Patient_Card_H.py2021-06-04 10:27:07
+2021-06-04 10:27:09,997 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_create.py[line:190] - INFO: 【运行总时间】2.45
+2021-06-04 10:28:40,574 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:304] - INFO: 任务开始
+2021-06-04 10:28:40,709 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:28:40,754 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-04 10:28:40,865 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:28:40,865 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-04 10:28:40
+2021-06-04 10:28:43,191 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:285] - ERROR: 【异常sql】(1054, "Unknown column 'a.IsInactive' in 'field list'")
+2021-06-04 10:29:02,226 - D:\泰康拜博\ETL\20210409\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-04 10:29:02,226 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:336] - ERROR: 【运行异常】(0, '')
+2021-06-04 10:43:27,055 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:304] - INFO: 任务开始
+2021-06-04 10:43:27,101 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:43:27,113 - D:\泰康拜博\ETL\20210409\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-04 10:43:27,164 - D:\泰康拜博\ETL\20210409\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-04 10:43:27,164 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:54] - INFO: T01_Patient_Card_H_Data2Dw.py begintime=2021-06-04 10:43:27
+2021-06-04 10:43:46,228 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:285] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-04 10:43:46,228 - D:\泰康拜博\ETL\20210409\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-04 10:43:46,228 - D:/泰康拜博/ETL/20210409/data/dev/py/bybo/bybo_draw/T01_Patient_Card_H_Data2Dw.py[line:336] - ERROR: 【运行异常】(0, '')
